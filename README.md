@@ -27,7 +27,7 @@
 - World Cities Data
 
 ### Variable
-**Predictor variables: **
+**Predictor variables:**
 - Date: year-month-day
 - Rented Bike count: Count of bikes rented each hour
 - Hour: Hour of the day
