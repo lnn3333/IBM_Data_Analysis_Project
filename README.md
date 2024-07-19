@@ -16,11 +16,12 @@
 
 ## 3. About the Data Source
 ### Source
-**Weather Data**
+**i. Weather Data**
 - Open Weather API Data
     - Use HTTP request 
     - Data provide forecast for every 3 hours over the next 5 days
-**Bike sharing Data**
+
+**ii. Bike sharing Data**
 - Global Bike Sharing Systems Dataset
 - Seoul Bike Sharing Demand Data Set
 - World Cities Data
