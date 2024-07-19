@@ -4,6 +4,7 @@
 2. Tech Stack
 3. About the data source
 4. Project Details
+5. Presentation slide
 5. Credits
 
 ## 1. Ojective
@@ -63,7 +64,8 @@
 5. Building an Interactive Dashboard
 - Create an interactive dashboard using R Shiny.
 
-
+## 5. Presenation slides
+Review all the evaluation of predictive models
 ## 5. Credits
 - This is part of IBM R Capstone Project course
 - Relevant Paper and Citation Request:
